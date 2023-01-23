@@ -10,4 +10,4 @@ github_username:  shatt-s
 sass:
   sass_dir: _sass
 
-icon: /assets/img/profile-pic.jpeg
+icon: ./assets/img/profile-pic.jpeg
