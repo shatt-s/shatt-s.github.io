@@ -1,6 +1,7 @@
 title: "Benjamin John Shattock"
+email: ben.shattock@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-              I am a Undergraduate Computer Science student at Durham University, currently on the MEng Computer Science Course.
+  I am a Undergraduate Computer Science student at Durham University, currently on the MEng Computer Science Course.
 baseurl: "/" 
 url: "/" 
 linkedin_username: https://www.linkedin.com/in/benjamin-shattock/
