@@ -8,7 +8,7 @@
   date: September 2020
   page-name: https://store.steampowered.com/app/1386320/Table_Top_Turrets/
 
-- title: AI Rubik's Cube Simulator
+- title: ML Rubik's Cube Simulator
   event: Freelance Software Development
   date: February 2023
   page-name: https://shatt-s.github.io/rubiks-cube-simulator-v2/
@@ -17,3 +17,8 @@
   event: Freelance Software Development
   date: February 2023
   page-name: https://shatt-s.github.io/draughts-ai/
+
+- title: DL Rubik's Cube Simulator
+  event: Freelance Software Development
+  date: October 2023
+  page-name: https://shatt-s.github.io/rubiks-cube-simulator-v3/
