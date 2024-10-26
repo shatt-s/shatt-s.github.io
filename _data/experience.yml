@@ -1,9 +1,11 @@
 - role: Augmented and Virtual Reality Development
   company: Durham University Physics Department
   dates: July 2022 - September 2022
-  logo: du.png
 
 - role: Security Software Engineer
   company: BT Security
   dates: June 2023 - September 2023
-  logo: bt.png
+
+- role: AI and Data Science Researcher
+  company: The Alan Turing Institute (ATI)
+  dates: June 2024 - September 2024
